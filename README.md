@@ -4,7 +4,7 @@ Jaime Bouffanais - Fernanda Cartes
 
 # Uso del Servidor DNS
 
-sudo python ServerDNS.py O sudo python ServerDNS.py [-d|-dd] [--server_addr] [--config_path]
+sudo python ServidorDNS.py O sudo python ServidorDNS.py [-d|-dd] [--server_addr] [--config_path]
 
 # Leyenda 
 
